@@ -1,5 +1,5 @@
 /*--------------------------------------
-    Ce n'est qui petite version de 
+    Ce n'est qu'une petite version de 
     test, en aucun cas cette addon 
     est a prendre au serieux ! 
     C'est juste une façon pour moi
